@@ -1,0 +1,19 @@
+.footer__container {
+}
+.footer__row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5e5373;
+
+}
+.footer_element {
+
+        margin: 20px;
+/* padding: 30px; */
+    
+
+}
+.footer__item {
+    font-size: 30px;
+}

@@ -1,0 +1,15 @@
+.profit__container {
+}
+.profit__row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.profit__element {
+}
+.profit__item {
+}
+.chart {
+    width: 720px;
+}

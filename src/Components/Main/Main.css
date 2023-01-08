@@ -1,0 +1,12 @@
+.header__container {
+}
+.header__row {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.header__element {
+    border: 2px solid black;
+}
+.header__item {
+}
