@@ -4,7 +4,7 @@ import Header from './Components/Header';
 import Main from './Components/Main/Main';
 import Footer from './Components/Footer/Footer';
 import freedom_header from './img/freedom_header.jpeg'
-import LineChart from './Components/Main/LineChart';
+import LineChart from './Components/Main/Charts/LineChart';
 
 function App() {
   return (

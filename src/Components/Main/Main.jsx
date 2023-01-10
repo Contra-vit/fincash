@@ -1,7 +1,8 @@
 import React from 'react'
 import '../Main/Main.css'
 import Profit from './Profit'
-import AssetsPie from './AssetsPie'
+import AssetsPie from './Charts/AssetsPie'
+
 
 export default function Main() {
   return (

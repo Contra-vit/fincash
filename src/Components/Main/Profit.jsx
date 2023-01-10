@@ -1,6 +1,6 @@
 import React from 'react'
 import './Profit.css'
-import LineChart from './LineChart';
+import LineChart from '../Main/Charts/LineChart';
 
 export default function Profit() {
   return (

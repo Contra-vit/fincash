@@ -1,9 +1,9 @@
 import React from 'react'
-import './AssetsPie.css'
+import '../Charts/AssetsPie.css'
 import { 
   Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 import { Doughnut } from "react-chartjs-2";
-import colors from '../colors.json';
+import colors from '../Charts/colors.json';
 import {useState, useEffect} from 'react'
 ChartJS.register(ArcElement, Tooltip, Legend);
 
@@ -49,4 +49,3 @@ const addColor =(event)=> {
 }
 
 
-// PRWy4wAZYi3MkVzMdm1JTMitiuskwnF3
